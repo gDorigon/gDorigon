@@ -2,12 +2,13 @@
 I'm Guilherme, a 17 years old developer from Brazil🇧🇷.
 
 - 👥 Member at [@padolabs](https://github.com/padolabs)
-
+<!--
 ## About me
 - 🖥 lol, r6 and csgo player
 - 📕 3nd year high school student
 - 💥 Star Wars fan
 - 💽 Hip-hop lover
+-->
 
 <!--## Stats 
 ![gDorigon](https://github-readme-stats.vercel.app/api?username=gdorigon&show_icons=true&theme=tokyonight) -->
