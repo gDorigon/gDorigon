@@ -33,6 +33,7 @@ I'm Guilherme, a 17 years old developer from Brazil🇧🇷.
 <h1 align="center">
   <img src="https://i.imgur.com/K7N15XS.gif" width="900" height="400" />
   <h2> May the fork be with you -Yoda </h2> 
+ <!-- <h6> kiba nao comedia </h6> -->
 </h1>
 
 
