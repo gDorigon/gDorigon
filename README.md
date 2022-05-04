@@ -1,5 +1,5 @@
 ## ʜᴇʏ! 👋
-I'm Guilherme, a 17 years old developer from Brazil🇧🇷.
+I'm Guilherme, a 18 years old developer from Brazil🇧🇷.
 
 - 👥 Member at [@padolabs](https://github.com/padolabs)
 <!--
