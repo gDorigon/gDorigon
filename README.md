@@ -1,10 +1,10 @@
 ## ʜᴇʏ! 👋
 I'm Guilherme, a 18 years old developer from Brazil🇧🇷.
 
-- 👥 Member at [@padolabs](https://github.com/padolabs)
+- 👥 Currently working at [@padolabs](https://github.com/padolabs), I intend to study electrical engineering and work with firmware programming
 <!--
 ## About me
-- 🖥 lol, r6 and csgo player
+- 🖥 lol and csgo player
 - 📕 3nd year high school student
 - 💥 Star Wars fan
 - 💽 Hip-hop lover
