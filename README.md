@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://twitter.com/dorigongg" target="blank"><img src="https://img.shields.io/twitter/follow/dorigongg?logo=twitter&style=for-the-badge" alt="dorigongg" /></a> </p>
 
-- 🔭 I’m currently working on **BW8 Martech**
+- 🔭 I’m currently working on **@padotec**
 
 - 📫 How to reach me **guidbovo@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<!-- <a href="https://twitter.com/dorigongg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dorigongg" height="30" width="40" /></a> -->
+
 <a href="https://linkedin.com/in/guilherme dorigon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="guilherme dorigon" height="30" width="40" /></a>
 <a href="https://instagram.com/gui_dorigon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gui_dorigon" height="30" width="40" /></a>
 </p>
@@ -22,6 +22,3 @@
 <!--END_SECTION:waka-->
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gdorigon&show_icons=true&locale=en&layout=compact" alt="gdorigon" /></p>
-<!--
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gdorigon&show_icons=true&locale=en" alt="gdorigon" /></p> -->
