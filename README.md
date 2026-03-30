@@ -19,7 +19,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   4 hrs 8 mins          █████████████████████████   99.78 %
+JavaScript   4 hrs 8 mins          ████████████████████████▓   98.94 %
+Python       2 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 %
 Markdown     0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
 ```
 
