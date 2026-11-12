@@ -1,11 +1,9 @@
 name: Generate contribution snake
 
 on:
-  # Executa automaticamente todos os dias às 03:00 UTC
   schedule:
     - cron: "0 3 * * *"
 
-  # Permite executar manualmente pela aba Actions
   workflow_dispatch:
 
 permissions:
@@ -29,5 +27,5 @@ jobs:
         uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_branch: output
+          publish_branch: snake-output
           publish_dir: ./dist
