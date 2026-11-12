@@ -1,12 +1,15 @@
 <h1 align="center">Hi 👋, I'm Guilherme Dorigon</h1>
 
-<h3 align="center">
-  Software Developer • Car Enthusiast
-</h3>
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=22&amp;pause=1000&amp;color=0E75B6&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Software+Developer;Building+ideas+with+code;Car+and+technology+enthusiast"
+    alt="Typing animation"
+  />
+</p>
 
 <p align="center">
   <img
-    src="https://komarev.com/ghpvc/?username=gdorigon&label=Profile%20Views&color=0e75b6&style=flat"
+    src="https://komarev.com/ghpvc/?username=gdorigon&amp;label=Profile%20Views&amp;color=0e75b6&amp;style=flat"
     alt="Profile views"
   />
 </p>
@@ -16,17 +19,29 @@
 ### 👨‍💻 About me
 
 - 💻 Software Developer
-- 🚗 Car and coding enthusiast
+- 🚀 Always learning and building new things
+- 🚗 Car, technology and coding enthusiast
+- 🔧 Interested in frontend, backend, mobile and automation
 - 📫 Reach me at **guidbovo@gmail.com**
+
+---
+
+### 🛠️ Technologies and tools
+
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=ts,js,nodejs,react,html,css,git,github,docker,vscode&amp;perline=10"
+    alt="Technologies and tools"
+  />
+</p>
 
 ---
 
 ### 🤝 Connect with me
 
-<p align="left">
-  <a href="https://linkedin.com/in/guilherme-dorigon" target="_blank">
+<p align="center">
+  <a href="https://linkedin.com/in/guilherme-dorigon">
     <img
-      align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="LinkedIn"
       height="30"
@@ -34,15 +49,35 @@
     />
   </a>
 
-  <a href="https://instagram.com/gui_dorigon" target="_blank">
+  <a href="https://instagram.com/gui_dorigon">
     <img
-      align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
       alt="Instagram"
       height="30"
       width="40"
     />
   </a>
+</p>
+
+---
+
+### 🐍 My contributions
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/gdorigon/gdorigon/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/gdorigon/gdorigon/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      src="https://raw.githubusercontent.com/gdorigon/gdorigon/output/github-contribution-grid-snake.svg"
+      alt="GitHub contribution snake"
+    />
+  </picture>
 </p>
 
 ---
